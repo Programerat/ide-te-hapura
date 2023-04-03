@@ -5,3 +5,15 @@ Ky repozitor synon të krijojë një komunitet të njerëzve të interesuar për
 Në këtë repozitor, do të gjendet një listë e projekteve aktuale, si dhe udhëzime për të kontribuar në to. Gjithashtu, kjo faqe do të jetë vendi ku do të bisedohet për projekte të reja, të diskutohet për ndryshime dhe përmirësime, dhe të ndahen burime të reja të hapura.
 
 Ne shpresojmë që ky komunitet do të ndihmojë në rritjen dhe zhvillimin e projekteve të hapura dhe në rritjen e një kulture bashkëpunimi dhe ndarjeje të njohurive. Ju ftojmë të bashkoheni me ne dhe të kontribuoni me ide dhe kontribute të reja!
+
+## E kam nje ide
+
+Se shpejti.
+
+## Dua te punoj ne nje projekt
+
+Se shpejti.
+
+-----
+
+# Lista e projekteve te perfunduara 🚀🎉.
