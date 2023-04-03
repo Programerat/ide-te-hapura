@@ -6,14 +6,16 @@ Në këtë repozitor, do të gjendet një listë e projekteve aktuale, si dhe ud
 
 Ne shpresojmë që ky komunitet do të ndihmojë në rritjen dhe zhvillimin e projekteve të hapura dhe në rritjen e një kulture bashkëpunimi dhe ndarjeje të njohurive. Ju ftojmë të bashkoheni me ne dhe të kontribuoni me ide dhe kontribute të reja!
 
-## E kam nje ide
+### E kam nje ide
 
 Per ta publikuar nje ide te re, thjesht ndjeke lidhesen ne fund te ktij paragrafi, mundohu te shtosh sa me shume detaje rreth idese tende, gjithashtu nese ke bere hulumtime rreth idejave te ngjajshme bashkangjiti ne pershkrim.
+
 Linku per te shtuar nje ide: [https://github.com/Programerat/ide-te-hapura/issues/new](https://github.com/Programerat/ide-te-hapura/issues/new).
 
-## Dua te punoj ne nje projekt
+### Dua te punoj ne nje projekt
 
 Per te filluar te punosh ne nje projekt, thjesh shiko ne [listen e projekteve](https://github.com/Programerat/ide-te-hapura/issues) ku te tjeret kan postuar ide, nese e sheh qe mundesh me kontribu me dijen tende ne ate projekt thjesht kontaktoje personin qe e ka publikuar ate ide dhe ai do te tregoj se si te fillosh.
+
 
 Liku per listen e ideve: [https://github.com/Programerat/ide-te-hapura/issues](https://github.com/Programerat/ide-te-hapura/issues).
 
