@@ -8,7 +8,8 @@ Ne shpresojmë që ky komunitet do të ndihmojë në rritjen dhe zhvillimin e pr
 
 ## E kam nje ide
 
-Se shpejti.
+Per ta publikuar nje ide te re, thjesht ndjeke lidhesen ne fund te ktij paragrafi, mundohu te shtosh sa me shume detaje rreth idese tende, gjithashtu nese ke bere hulumtime rreth idejave te ngjajshme bashkangjiti ne pershkrim.
+Linku per te shtuar nje ide: [https://github.com/Programerat/ide-te-hapura/issues/new](https://github.com/Programerat/ide-te-hapura/issues/new).
 
 ## Dua te punoj ne nje projekt
 
