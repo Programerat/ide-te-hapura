@@ -12,7 +12,9 @@ Se shpejti.
 
 ## Dua te punoj ne nje projekt
 
-Se shpejti.
+Per te filluar te punosh ne nje projekt, thjesh shiko ne [listen e projekteve](https://github.com/Programerat/ide-te-hapura/issues) ku te tjeret kan postuar ide, nese e sheh qe mundesh me kontribu me dijen tende ne ate projekt thjesht kontaktoje personin qe e ka publikuar ate ide dhe ai do te tregoj se si te fillosh.
+
+Liku per listen e ideve: [https://github.com/Programerat/ide-te-hapura/issues](https://github.com/Programerat/ide-te-hapura/issues).
 
 -----
 
