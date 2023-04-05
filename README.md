@@ -1,4 +1,4 @@
-# Ide te hapura
+# Ide te hapura ([Open Source](https://en.wikipedia.org/wiki/Open_source))
 
 Ky repozitor synon të krijojë një komunitet të njerëzve të interesuar për burime të hapura dhe kontribuime në projekte të hapura. Ne i mirëpresim të gjithë të cilët dëshirojnë të ndajnë ide dhe kontribute në projekte të ndryshme, të përfshira në fusha si programimi, zhvillimi web, rrjetat dhe shumë të tjera.
 
